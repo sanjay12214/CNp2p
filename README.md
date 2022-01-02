@@ -1,1 +1,1 @@
-# Computer Network - Peer 2 Peer File sharing project
+# Computer Networks - Peer 2 Peer File sharing project
